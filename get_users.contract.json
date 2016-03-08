@@ -2,7 +2,7 @@
   "schema": {
     "request": {
       "method": "get",
-      "path": "/users"
+      "path": "/system_users"
     }
   },
   "examples": [
